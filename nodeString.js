@@ -1,4 +1,4 @@
-const myName = 'kim soongon'
+const myName = 'kim soongon.'
 const myLegacyString = '내 이름은 ' + myName + ' 입니다.';
 console.log(myLegacyString);
 
